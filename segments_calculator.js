@@ -10,6 +10,7 @@
  */
 
 
+
 // Map of Javascript code points to GSM-7 
 const unicodeToGsm = {
     0x000A: [0x0A],
